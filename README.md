@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/neox0z/neox0z/32b2a3b76cb852ccc4a2f3152f2305ff297b982c/images/blue.svg">
 </h1>
 <img src="https://komarev.com/ghpvc/?username=neox0z&style=for-the-badge&color=0C4160">
-<br><br><div>
+<br><div>
     <!-- Languages/Technologies/Tools -->
     <h1 align="left">Languages and Tools</h1>
     <img src="https://img.shields.io/badge/-Python-0C4160?style=for-the-badge&logo=python">
