@@ -18,7 +18,7 @@
 <br><div>
     <h1>Activities</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=neox0z&bg_color=0C4160&text_color=C3CEDA&hide_border=True&border_radius=0">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neox0z&bg_color=0C4160&text_color=C3CEDA&hide_border=True&border_radius=0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neox0z&bg_color=0C4160&text_color=C3CEDA&hide_border=True&border_radius=0">
 </div>
 <br><div>
     <h1>Operating System</h1>
