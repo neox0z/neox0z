@@ -1,26 +1,26 @@
 <h1>
-    <img src="https://raw.githubusercontent.com/neox0z/neox0z/32b2a3b76cb852ccc4a2f3152f2305ff297b982c/images/blue.svg" style="border-radius: 5px;">
+    <img src="https://raw.githubusercontent.com/neox0z/neox0z/32b2a3b76cb852ccc4a2f3152f2305ff297b982c/images/blue.svg">
 </h1>
 
 <div>
     <!-- Languages/Technologies/Tools -->
-    <img src="https://komarev.com/ghpvc/?username=neox0z&style=for-the-badge&color=0C4160" style="border-radius: 5px;">
+    <img src="https://komarev.com/ghpvc/?username=neox0z&style=for-the-badge&color=0C4160">
     <br><br><h1>Languages and Tools</h1>
-    <img src="https://img.shields.io/badge/-Python-0C4160?style=for-the-badge&logo=python" style="border-radius: 5px;">
-    <img src="https://img.shields.io/badge/-Javascript-0C4160?style=for-the-badge&logo=javascript" style="border-radius: 5px;">
-    <img src="https://img.shields.io/badge/-HTML-0C4160?style=for-the-badge&logo=html5" style="border-radius: 5px;">
-    <img src="https://img.shields.io/badge/-CSS-0C4160?style=for-the-badge&logo=css3" style="border-radius: 5px;">
-    <img src="https://img.shields.io/badge/-SASS-0C4160?style=for-the-badge&logo=sass" style="border-radius: 5px;">
-    <img src="https://img.shields.io/badge/-PHP-0C4160?style=for-the-badge&logo=php" style="border-radius: 5px;">
-    <img src="https://img.shields.io/badge/-C++-0C4160?style=for-the-badge&logo=cplusplus" style="border-radius: 5px;">
-    <img src="https://img.shields.io/badge/-Sublime-0C4160?style=for-the-badge&logo=sublimetext" style="border-radius: 5px;">
-    <img src="https://img.shields.io/badge/-VSCODE-0C4160?style=for-the-badge&logo=visualstudiocode" style="border-radius: 5px;">
+    <img src="https://img.shields.io/badge/-Python-0C4160?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/-Javascript-0C4160?style=for-the-badge&logo=javascript">
+    <img src="https://img.shields.io/badge/-HTML-0C4160?style=for-the-badge&logo=html5">
+    <img src="https://img.shields.io/badge/-CSS-0C4160?style=for-the-badge&logo=css3">
+    <img src="https://img.shields.io/badge/-SASS-0C4160?style=for-the-badge&logo=sass">
+    <img src="https://img.shields.io/badge/-PHP-0C4160?style=for-the-badge&logo=php">
+    <img src="https://img.shields.io/badge/-C++-0C4160?style=for-the-badge&logo=cplusplus">
+    <img src="https://img.shields.io/badge/-Sublime-0C4160?style=for-the-badge&logo=sublimetext">
+    <img src="https://img.shields.io/badge/-VSCODE-0C4160?style=for-the-badge&logo=visualstudiocode">
 </div>
 
 <div>
     <br><h1>Activities</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=neox0z&bg_color=0C4160&text_color=C3CEDA&hide_border=True">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neox0z&bg_color=0C4160&text_color=C3CEDA&hide_border=True">
+    <img src="https://github-readme-stats.vercel.app/api?username=neox0z&bg_color=0C4160&text_color=C3CEDA&hide_border=True&border_radius=0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neox0z&bg_color=0C4160&text_color=C3CEDA&hide_border=True&border_radius=0">
 </div>
 <br><h1>Operating System</h1>
 
