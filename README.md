@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=neox0z&style=for-the-badge&color=0C4160">
 <div>
     <!-- Languages/Technologies/Tools -->
-    <br><br><h1 align="left">Languages and Tools</h1>
+    <br><h1 align="left">Languages and Tools</h1>
     <img src="https://img.shields.io/badge/-Python-0C4160?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/-Javascript-0C4160?style=for-the-badge&logo=javascript">
     <img src="https://img.shields.io/badge/-HTML-0C4160?style=for-the-badge&logo=html5">
